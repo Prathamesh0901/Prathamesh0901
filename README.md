@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prathamesh0901
 - 👀 I’m interested in web and c++ development 
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently exploring MERN
 - 📫 How to reach me mail on prathameshmane3622@gmail.com
 
 <!---
