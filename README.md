@@ -6,7 +6,7 @@ Full Stack Developer focused on **real-time systems**, **developer tooling**, an
 
 ## 🚀 What I've Shipped
 
-### [@prathamesh0901/zoom-mcp-server](https://www.npmjs.com/package/@prathamesh0901/zoom-mcp-server) · 3,000+ downloads
+### [@prathamesh0901/zoom-mcp-server](https://www.npmjs.com/package/@prathamesh0901/zoom-mcp-server) · 5,000+ downloads
 An npm CLI tool that lets you manage Zoom meetings through natural language via Claude and Cursor — built on the Model Context Protocol (MCP). Open-source, modular, and actively maintained.
 
 ### [SyncBoard](https://syncboard-canvas.vercel.app/)
