@@ -1,5 +1,7 @@
 # Hey, I'm Prathamesh Mane 👋
 
+![](https://komarev.com/ghpvc/?username=your-github-username)
+
 Full Stack Developer focused on **real-time systems**, **developer tooling**, and **AI integrations**. I build things that actually get used.
 
 ---
