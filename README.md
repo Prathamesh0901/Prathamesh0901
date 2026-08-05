@@ -8,7 +8,7 @@
   <a href="https://linkedin.com/in/prathameshmane09"><img src="https://img.shields.io/badge/LinkedIn-Prathamesh_Mane-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.npmjs.com/~prathamesh0901"><img src="https://img.shields.io/badge/npm-@prathamesh0901-CB3837?style=flat&logo=npm&logoColor=white" /></a>
   <a href="mailto:prathamesh.mane.dev@gmail.com"><img src="https://img.shields.io/badge/Email-prathamesh.mane.dev@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-Knight_%7C_Top_5%25-FFA116?style=flat&logo=leetcode&logoColor=white" /></a>
+  <a href="https://leetcode.com/prathamesh0901"><img src="https://img.shields.io/badge/LeetCode-Knight_%7C_Top_5%25-FFA116?style=flat&logo=leetcode&logoColor=white" /></a>
 </p>
 
 ---
