@@ -17,7 +17,7 @@
 
 | Project | Description |
 |---|---|
-| **[journal-tui](https://github.com/Prathamesh0901/journal-tui)** `v0.1.1` | Go-based TUI for tailing & searching journald logs — ring-buffered scrollback, priority color coding, interactive search. Built with cobra, bubbletea, lipgloss. |
+| **[journal-tui](https://github.com/Prathamesh0901/journal-tui)** `v0.2.0` | Go-based TUI for tailing & searching journald logs — ring-buffered scrollback, priority color coding, interactive search. Built with cobra, bubbletea, lipgloss. |
 | **[sheltr](https://github.com/Prathamesh0901/sheltr)** · [live demo](https://sheltr-app.vercel.app) | Browser-native terminal sharing — one command, two links (controller + viewer). Real PTY via node-pty, role-based access, session replay over a WebSocket relay. Published as [`@sheltr_/agent`](https://www.npmjs.com/package/@sheltr_/agent). |
 | **[zoom-mcp-server](https://www.npmjs.com/package/@prathamesh0901/zoom-mcp-server)** · 5,000+ downloads | CLI that lets you manage Zoom meetings via natural language through Claude/Cursor, built on MCP. Merged into Anthropic's official MCP servers registry. |
 | **[SyncBoard](https://syncboard-canvas.vercel.app/)** | Real-time collaborative whiteboard. Turborepo monorepo, separate WebSocket/HTTP backends, Redis pub/sub for low-latency sync, invite-based canvas ownership. |
